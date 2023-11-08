@@ -2,7 +2,8 @@
 - 👀 I’m interested in Augmented Human-Computer Interaction and Videogames 
 - 🌱 I’m currently learning Unity, C# and Blender
 - 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me --> 
+- 📫 How to reach me -->
+
 my youtube channel:
 https://www.youtube.com/channel/UC14864r07RfbKCnGzbGv8pg
 
